@@ -1,0 +1,8 @@
+#les bibliothq li an7tajo
+
+
+streamlit
+pandas
+joblib
+scikit-learn
+pdfplumber

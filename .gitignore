@@ -1,0 +1,25 @@
+# Environnements
+venv/
+.venv/
+classification-cvs-main/venv/
+classification-cvs-main/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Modèles lourds
+models/
+classification-cvs-main/models/
+*.pkl
+*.joblib
+*.safetensors
+
+# BERT / checkpoints
+bert_results/
+classification-cvs-main/bert_results/
+checkpoint-*/
+
+# Archives
+*.zip
+*.rar

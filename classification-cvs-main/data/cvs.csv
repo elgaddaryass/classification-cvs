@@ -1,0 +1,76 @@
+text,label
+"python fastapi django flask rest api postgresql docker backend developer git",Software Engineering
+"java spring boot microservices mysql api docker backend software engineer",Software Engineering
+"frontend developer html css javascript react redux bootstrap tailwind git",Software Engineering
+"full stack developer react nodejs express mongodb jwt authentication api",Software Engineering
+"mobile developer flutter dart firebase android ios application development",Software Engineering
+"software engineer oop data structures algorithms clean code testing git",Software Engineering
+"backend developer php laravel mysql api authentication mvc composer",Software Engineering
+"web developer wordpress php mysql html css javascript seo",Software Engineering
+"qa automation selenium python pytest testing regression agile scrum",Software Engineering
+"software testing junit mockito unit testing integration testing java maven",Software Engineering
+"desktop application c sharp dotnet sql server windows forms entity framework",Software Engineering
+"microservices architecture spring cloud docker kubernetes api gateway",Software Engineering
+"python developer automation scripting selenium web scraping api integration",Software Engineering
+"game developer unity c sharp unreal engine gameplay programming",Software Engineering
+"software architecture uml design patterns clean architecture solid principles",Software Engineering
+"machine learning engineer python sklearn pandas numpy model training evaluation",Data Science
+"data analyst sql excel power bi tableau dashboard reporting statistics",Data Science
+"business intelligence data warehouse etl sql power bi dax reporting",Data Science
+"ai engineer python tensorflow keras pytorch computer vision nlp",Data Science
+"nlp engineer transformers bert spacy nltk text classification sentiment analysis",Data Science
+"computer vision engineer opencv yolo cnn image classification object detection",Data Science
+"data scientist regression classification clustering feature engineering sklearn",Data Science
+"data mining python statistics visualization seaborn matplotlib pandas",Data Science
+"deep learning engineer neural networks pytorch tensorflow gpu training",Data Science
+"big data engineer spark kafka hadoop hive airflow data pipeline",Data Science
+"data engineer python sql airflow dbt snowflake etl pipeline",Data Science
+"ml engineer mlflow model deployment fastapi docker monitoring",Data Science
+"statistical analyst r python hypothesis testing regression forecasting",Data Science
+"forecasting analyst time series arima prophet lstm demand prediction",Data Science
+"research assistant artificial intelligence machine learning data preprocessing",Data Science
+"network engineer cisco routing switching ospf bgp vlan lan wan",Networks
+"system administrator linux windows server dns dhcp active directory",Networks
+"network technician tcp ip subnetting cabling switch router troubleshooting",Networks
+"telecom engineer mpls voip sip qos fiber optic network infrastructure",Networks
+"network administrator firewall vpn proxy monitoring nagios zabbix",Networks
+"noc engineer network monitoring incident response wireshark snmp troubleshooting",Networks
+"ccna engineer cisco packet tracer routing switching access control list",Networks
+"wireless network engineer wifi access point controller lan wlan",Networks
+"linux administrator shell scripting apache nginx server security backup",Networks
+"windows server administrator active directory group policy powershell exchange",Networks
+"network security engineer fortinet palo alto firewall vpn ids ips",Networks
+"cloud network engineer aws vpc subnet route table load balancer",Networks
+"devnet engineer python ansible netconf restconf network automation",Networks
+"junior network engineer subnetting vlan dhcp dns tcp ip troubleshooting",Networks
+"it support technician hardware software network printer helpdesk troubleshooting",Networks
+"cybersecurity analyst siem soc incident response threat detection splunk",Cybersecurity
+"penetration tester kali linux metasploit burp suite nmap vulnerability assessment",Cybersecurity
+"web security analyst owasp sql injection xss csrf authentication security",Cybersecurity
+"information security officer iso 27001 risk management compliance gdpr",Cybersecurity
+"digital forensics analyst malware analysis memory forensics incident investigation",Cybersecurity
+"security engineer firewall ids ips endpoint security encryption vpn",Cybersecurity
+"soc analyst log analysis alert investigation threat hunting elastic splunk",Cybersecurity
+"ethical hacker reconnaissance exploitation privilege escalation report writing",Cybersecurity
+"cloud security engineer aws iam security groups encryption monitoring",Cybersecurity
+"application security secure coding sast dast dependency scanning devsecops",Cybersecurity
+"red team operator phishing exploitation post exploitation active directory",Cybersecurity
+"blue team analyst detection engineering yara sigma incident response",Cybersecurity
+"cryptography engineer pki certificates ssl tls encryption key management",Cybersecurity
+"risk analyst security governance compliance audit information security policies",Cybersecurity
+"security operations center analyst monitoring alerts malware phishing response",Cybersecurity
+"devops engineer docker kubernetes jenkins gitlab ci cd linux",Cloud DevOps
+"cloud engineer aws ec2 s3 lambda iam vpc cloudwatch terraform",Cloud DevOps
+"azure cloud engineer virtual machines azure devops pipelines kubernetes",Cloud DevOps
+"gcp cloud engineer compute engine cloud run cloud storage iam",Cloud DevOps
+"site reliability engineer sre monitoring prometheus grafana incident response",Cloud DevOps
+"kubernetes administrator helm ingress service deployment pods namespaces",Cloud DevOps
+"infrastructure engineer terraform ansible linux automation cloudformation",Cloud DevOps
+"ci cd engineer github actions docker testing deployment automation",Cloud DevOps
+"platform engineer kubernetes docker microservices observability logging",Cloud DevOps
+"cloud architect aws azure gcp solutions architecture high availability",Cloud DevOps
+"linux devops engineer bash scripting nginx docker deployment monitoring",Cloud DevOps
+"devsecops engineer ci cd security scanning docker kubernetes cloud",Cloud DevOps
+"release engineer git branching versioning deployment pipeline automation",Cloud DevOps
+"monitoring engineer prometheus grafana elk alertmanager logs metrics",Cloud DevOps
+"automation engineer ansible terraform python scripts cloud infrastructure",Cloud DevOps
